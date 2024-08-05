@@ -11,6 +11,6 @@ For surface
 
 $$f(x,y) = (x+1)^2+(x+2)^2$$
 
-at point $(\pi/2,\pi/2)$ we get the following picture
+at point $(\frac{\pi}{2},\frac{\pi}{2})$ we get the following picture
 
 ![surface](https://github.com/era011/tangent_surface/blob/main/newplot.png)
