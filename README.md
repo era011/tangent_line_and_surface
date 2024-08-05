@@ -1,4 +1,4 @@
-# tangent_line_and_surface
+# tangent_surface
 
 
 A tangent_surface function has been written that returns the equation of the tangent plane to the surface kind
